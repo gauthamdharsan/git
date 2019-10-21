@@ -1,4 +1,9 @@
 hi
 welcome to git
+<<<<<<< HEAD
 hey surya got job
 
+=======
+4th line
+5th line
+>>>>>>> dev
